@@ -1,3 +1,7 @@
+## About
+This project is a fork of the Tota11y repository by Babylon Health. The `tota11y.min.js` file is sourced from the original repository's `dist` directory.
+Will keep this section updated with regard to removing customizations or adding new customizations.
+
 # An accessibility visualization toolkit.
 
 Instructions and bookmarklet at https://brucelawson.github.io/tota11y/instructions 
